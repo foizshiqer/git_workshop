@@ -1,3 +1,3 @@
-print("hello, world\n")
+print("hello, world")
 for i in range(5):
     print("hello!", i)
